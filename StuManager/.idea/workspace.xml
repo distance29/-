@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25766f0f-e0cd-4811-9f7c-b2b3bfa60cd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AYj1OOMBc7DNFOqfUSfR8sHd0Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Student" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.Login" />
+      <module name="StuManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login_Register" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.Login_Register" />
+      <module name="StuManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stu.main" />
+      <module name="StuManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prompt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.prompt" />
+      <module name="StuManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.prompt" />
+        <item itemvalue="Application.Login_Register" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25766f0f-e0cd-4811-9f7c-b2b3bfa60cd6" name="Default Changelist" comment="" />
+      <created>1655193196179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655193196179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="865" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1655206413009">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="865" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672@0.0.1280.672" timestamp="1655206413009" />
+    <state x="371" y="83" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1655225953507">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="371" y="83" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.672@0.0.1280.672" timestamp="1655225953507" />
+    <state x="323" y="77" key="FileChooserDialogImpl" timestamp="1655454365635">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="323" y="77" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1655454365635" />
+    <state width="1237" height="126" key="GridCell.Tab.0.bottom" timestamp="1655453963636">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="126" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1655453963636" />
+    <state width="1237" height="126" key="GridCell.Tab.0.center" timestamp="1655453963636">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="126" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1655453963636" />
+    <state width="1237" height="126" key="GridCell.Tab.0.left" timestamp="1655453963636">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="126" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1655453963636" />
+    <state width="1237" height="126" key="GridCell.Tab.0.right" timestamp="1655453963636">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="126" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1655453963636" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1655198354101">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1655198354101" />
+    <state x="325" y="161" key="com.intellij.ide.util.TipDialog" timestamp="1655454359534">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="325" y="161" key="com.intellij.ide.util.TipDialog/0.0.1280.672@0.0.1280.672" timestamp="1655454359534" />
+    <state x="805" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1655195745124">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="805" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1655195745124" />
+  </component>
+</project>
